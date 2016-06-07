@@ -1,0 +1,39 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "restler.js",
+  "dependencies": {
+    "connect1": "^3.4.1",
+    "ejs": "^2.4.1",
+    "body-parser": "^1.15.0",
+    "global-tunnel": "^1.2.0",
+    "express": "^4.13.4",
+    "crypto-js": "^3.1.6",
+    "lodash": "^4.13.1",
+    "formidable": "^1.0.17",
+    "http": "^0.0.0",
+    "http1": "^0.0.0",
+    "netsuite-search": "^0.1.0",
+    "oauth-1.0a": "^1.0.1",
+    "unirest": "^0.5.0",
+    "restler": "^3.4.0",
+    "sql.js": "^0.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaurya93/nodeapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaurya93/nodeapp/issues"
+  },
+  "homepage": "https://github.com/shaurya93/nodeapp#readme"
+}
